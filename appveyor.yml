@@ -18,7 +18,7 @@ install:
 
 build_script:
   - dotnet ..\Wyam\Wyam.dll --output ..\output
-  - xcopy _redirects ..\output\_redirects
+  - copy _redirects ..\output\_redirects
 
 on_success:
   - git config --global credential.helper store
