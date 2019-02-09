@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://festive-murdock-023760.netlify.com/* http://blog.gpriaulx.co/:splat 301!
