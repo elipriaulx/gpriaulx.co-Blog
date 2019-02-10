@@ -1,8 +1,12 @@
 #recipe Blog
+// #theme Stellar
 
 // Customize your settings and add new ones here
-Settings[Keys.Host] = "host.com";
-Settings[BlogKeys.Title] = "My Blog";
-Settings[BlogKeys.Description] = "Welcome!";
+System.Globalization.CultureInfo.DefaultThreadCurrentCulture
+    = System.Globalization.CultureInfo.CreateSpecificCulture("en-AU");
+
+Settings[Keys.Host] = "blog.gpriaulx.co";
+Settings[BlogKeys.Title] = "blog.gpriaulx.co";
+Settings[BlogKeys.Description] = "Gui Priaulx";
 
 // Add any pipeline customizations here
