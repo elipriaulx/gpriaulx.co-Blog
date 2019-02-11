@@ -4,14 +4,32 @@
 	<title>blog.gpriaulx.co</title>
 	<link rel="self" href="http://blog.gpriaulx.co/" />
 	<rights>2019</rights>
-	<updated>2019-02-11T09:22:10Z</updated>
+	<updated>2019-02-11T11:15:12Z</updated>
 	<subtitle>Gui Priaulx</subtitle>
+	<entry>
+		<id>http://blog.gpriaulx.co/posts/moving-to-wyam</id>
+		<title>Moving to Wyam</title>
+		<link href="http://blog.gpriaulx.co/posts/moving-to-wyam" />
+		<updated>2018-02-11T00:00:00Z</updated>
+		<content>&lt;p&gt;After seeing Wyam in action over at ReactiveUi, it seemed like a natural progression for my otherwise neglected Wordpress blog. I consider Wordpess both a wonderfull and terrible product, and my implementation offered little to reinforce the former sentiment. Maybe Wordpress isn't really practical for technical content; maybe I am just awkward and difficult, with unrealistic expectations; maybe my hosting environment and blog management is poor; or maybe an awkward intersection of the lot.&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;After seeing Wyam in action over at ReactiveUi, it seemed like a natural progression for my otherwise neglected Wordpress blog. I consider Wordpess both a wonderfull and terrible product, and my implementation offered little to reinforce the former sentiment. Maybe Wordpress isn't really practical for technical content; maybe I am just awkward and difficult, with unrealistic expectations; maybe my hosting environment and blog management is poor; or maybe an awkward intersection of the lot.&lt;/p&gt;</summary>
+	</entry>
 	<entry>
 		<id>http://blog.gpriaulx.co/posts/first-post</id>
 		<title>First Post</title>
 		<link href="http://blog.gpriaulx.co/posts/first-post" />
 		<updated>2016-01-01T00:00:00Z</updated>
 		<content>&lt;p&gt;This is my first post!&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-cs"&gt;// This is an example code block
+public class Beaver
+{
+    public double TailLength { get; set; }
+    public double TailGirth { get; set; }
+}
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Meow.&lt;/p&gt;
 </content>
 		<summary>&lt;p&gt;This is my first post!&lt;/p&gt;</summary>
 	</entry>

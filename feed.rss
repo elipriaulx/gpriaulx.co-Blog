@@ -5,8 +5,17 @@
 		<link>http://blog.gpriaulx.co/</link>
 		<description>Gui Priaulx</description>
 		<copyright>2019</copyright>
-		<pubDate>Mon, 11 Feb 2019 09:22:09 GMT</pubDate>
-		<lastBuildDate>Mon, 11 Feb 2019 09:22:10 GMT</lastBuildDate>
+		<pubDate>Mon, 11 Feb 2019 11:15:12 GMT</pubDate>
+		<lastBuildDate>Mon, 11 Feb 2019 11:15:12 GMT</lastBuildDate>
+		<item>
+			<title>Moving to Wyam</title>
+			<link>http://blog.gpriaulx.co/posts/moving-to-wyam</link>
+			<description>&lt;p&gt;After seeing Wyam in action over at ReactiveUi, it seemed like a natural progression for my otherwise neglected Wordpress blog. I consider Wordpess both a wonderfull and terrible product, and my implementation offered little to reinforce the former sentiment. Maybe Wordpress isn't really practical for technical content; maybe I am just awkward and difficult, with unrealistic expectations; maybe my hosting environment and blog management is poor; or maybe an awkward intersection of the lot.&lt;/p&gt;</description>
+			<guid>http://blog.gpriaulx.co/posts/moving-to-wyam</guid>
+			<pubDate>Sun, 11 Feb 2018 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;After seeing Wyam in action over at ReactiveUi, it seemed like a natural progression for my otherwise neglected Wordpress blog. I consider Wordpess both a wonderfull and terrible product, and my implementation offered little to reinforce the former sentiment. Maybe Wordpress isn't really practical for technical content; maybe I am just awkward and difficult, with unrealistic expectations; maybe my hosting environment and blog management is poor; or maybe an awkward intersection of the lot.&lt;/p&gt;
+</content:encoded>
+		</item>
 		<item>
 			<title>First Post</title>
 			<link>http://blog.gpriaulx.co/posts/first-post</link>
@@ -14,6 +23,15 @@
 			<guid>http://blog.gpriaulx.co/posts/first-post</guid>
 			<pubDate>Fri, 01 Jan 2016 00:00:00 GMT</pubDate>
 			<content:encoded>&lt;p&gt;This is my first post!&lt;/p&gt;
+&lt;pre&gt;&lt;code class="language-cs"&gt;// This is an example code block
+public class Beaver
+{
+    public double TailLength { get; set; }
+    public double TailGirth { get; set; }
+}
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Meow.&lt;/p&gt;
 </content:encoded>
 		</item>
 	</channel>
